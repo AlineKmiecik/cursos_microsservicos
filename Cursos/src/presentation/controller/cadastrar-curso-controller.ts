@@ -1,4 +1,4 @@
-import { Request, Response } from "express";
+import { Request, Response } from "../../../node_modules/express";
 import { CursoModel } from "../../data/models/curso";
 import { CadastrarCurso } from "../../domain/usecases/cadastrar-curso";
 

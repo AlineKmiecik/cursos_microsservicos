@@ -1,4 +1,4 @@
-import { Request, Response} from "express";
+
 import { CursoRepository } from "../../infra/repositories/curso-repository";
 
 import { CadastrarCursoService } from "../../data/services/cadastrar-curso";
